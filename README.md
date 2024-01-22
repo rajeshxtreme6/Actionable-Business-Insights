@@ -1,6 +1,7 @@
 # Actionable-Business-Insights - POWER BI - Dashboard
 Creating powerful actionable business insights Power BI dashboards using extensive datasets from a successful business.
-Dashboard Link :
+
+Dashboard Link : https://www.novypro.com/project/data-analyst-business-insights-excel---power-bi-dashboard
 
 Problem Statement:
 
